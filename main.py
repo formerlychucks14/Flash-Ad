@@ -7,7 +7,7 @@ import threading
 print(Fore.GREEN)
 print(Style.BRIGHT)
 
-Introduction = pyfiglet.figlet_format("Apollo", font="colossal")
+Introduction = pyfiglet.figlet_format("FlashAd", font="colossal")
 print(Introduction)
 print("Made by sneed#4975")
 print("Made with Amino.fix.")
